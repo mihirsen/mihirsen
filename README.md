@@ -1,3 +1,13 @@
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirsen&show_icons=true&theme=react)
+
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsen&layout=compact&theme=react)
+
+
+
+
+
 Hello, I'm Mihir Sen👋
 
 About Me
