@@ -4,8 +4,6 @@
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsen&layout=compact&theme=react)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsen&layout=compact&theme=tokyonight)
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mihirsen&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
