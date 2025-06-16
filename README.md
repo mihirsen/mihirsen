@@ -19,14 +19,14 @@ About Me
 
 I'm a passionate software developer with expertise in Full Stack Development. I love building innovative solutions and contributing to open-source projects.
 
-- 🌍 Based in: Vellore
+- 🌍 Based in: Bengalore
 - 📫 Reach me at: mihir123sen@gmail.com
 
 🛠️ Skills
 
-- Languages: JavaScript, Java, C++
-- Frameworks: React and  Node.js
-- Tools: Git
+- Languages: TypeScript,JavaScript, Java, C++
+- Frameworks: ReactJS , NextJS, ThreeJS and Node.js
+- Tools: Git, MongoDB,Framer, Figma, Postman, VScode, firebase, Rapid AI ,Google Cloud and SQL.
 
 🚀 Projects
 
