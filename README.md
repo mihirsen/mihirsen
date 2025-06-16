@@ -4,15 +4,11 @@
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsen&layout=compact&theme=react)
 
-## 🚀 GitHub Stats
-![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirsen&show_icons=true&theme=tokyonight&hide=contribs,prs)
-
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsen&layout=compact&theme=tokyonight)
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mihirsen&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mihirsen&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mihirsen&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
